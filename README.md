@@ -1,4 +1,4 @@
 # Home_ReadME
- Workspace inicialização.
+ Workspace de inicialização.
  
 Workspace de teste das aulas.
